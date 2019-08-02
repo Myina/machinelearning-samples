@@ -1,4 +1,4 @@
-# Object Detection - Asp.Net cpre Web/Service Sample
+# Object Detection - Asp.Net core Web/Service Sample
 
 | ML.NET version | API type          | Status                        | App Type    | Data type | Scenario            | ML Task                   | Algorithms                  |
 |----------------|-------------------|-------------------------------|-------------|-----------|---------------------|---------------------------|-----------------------------|
